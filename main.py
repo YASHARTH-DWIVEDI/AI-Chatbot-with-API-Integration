@@ -2,7 +2,7 @@ import os
 import streamlit as st
 from dotenv import load_dotenv
 
-# Optional imports handled gracefully
+
 try:
     from openai import OpenAI
 except ImportError:
