@@ -1,4 +1,4 @@
-# AI API Integration
+# AI Chatbot with API Integration
 
 This repository contains Python programs designed to query six different Generative AI models using their respective APIs.
 
